@@ -1,2 +1,2 @@
 # Leetcode
-Solve, Optimization, making a log
+Solve, Optimize, make
